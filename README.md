@@ -54,5 +54,5 @@
 </a>
   
 <a href="https://www.linkedin.com/in/cau%C3%A3-a-143246205/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" height="28">
 </a>
