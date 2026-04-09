@@ -5,13 +5,43 @@
 
 ## Linguagens e ferramentas que uso no dia a dia:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40" />
+<h3>🌐 Area de Redes</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="40" height="40" />
+
+<!-- Ferramentas / fabricantes (sem ícone oficial no devicon) -->
+<img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/MikroTik-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Huawei-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZTE-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nokia-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wanguard-orange?style=for-the-badge"/>
+
+<h3>💻 Area da Programação</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
 
 ## 
 
-- 📡 Atualmente trabalhando como Suporte nivel 2 de redes
-- 💻 No tempo livre estou trabalhando em alguns projetos estou na parte do front-end
-- 👩‍💻 Estudando para trabalhar na area de cibersegurança e programação
+- 👩‍💻 Analista de rede (Pleno)
+- 💻 Um dos fundador da empresa Retwire(especializada em automação de empresas, consultoria e vendas de sistemas) 
+- 📶 Consultor oficial Mikrotic
 
 
 ## Contato:
