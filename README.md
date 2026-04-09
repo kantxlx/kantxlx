@@ -47,7 +47,6 @@
 ## Contato:
   
 <a href="https://www.linkedin.com/in/cau%C3%A3-a-143246205/" target="_blank">
-  <p>LinkedIn</p>
   <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" height="28">
 </a>
 
