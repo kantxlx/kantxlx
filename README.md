@@ -1,7 +1,7 @@
 # Kantxlx 💻
 ## hello guys who make the program, Welcome to my Github 👋 ! ! !
 
-<img loading="lazy" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/05/b2b-stack-blog-conheca-as-5-linguagens-de-programacao-mais-usadas-nos-jogos-.jpg.webp" width="1024" height="200">
+<img loading="lazy" src="https://chatgpt.com/s/m_69d7bea260588191b7d015f71c679add" width="1024" height="200">
 
 ## Linguagens e ferramentas que uso no dia a dia:
 
