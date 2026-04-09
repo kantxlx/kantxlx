@@ -54,11 +54,5 @@
 </a>
   
 <a href="https://www.linkedin.com/in/cau%C3%A3-a-143246205/" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<div>
-<a href="https://github.com/kantxlx">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantxlx&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kantxlx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
