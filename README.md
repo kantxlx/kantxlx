@@ -1,7 +1,7 @@
 # Kantxlx 💻
 ## hello guys who make the program, Welcome to my Github 👋 ! ! !
 
-<img loading="lazy" src="https://pbs.twimg.com/media/HFeOS3VWIAAPbce?format=jpg&name=small" width="1024" height="100%">
+<img loading="lazy" src="https://pbs.twimg.com/media/HFeOS3VWIAAPbce?format=jpg&name=small" width="1024" height="500">
 
 ## Linguagens e ferramentas que uso no dia a dia:
 
