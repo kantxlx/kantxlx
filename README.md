@@ -9,7 +9,7 @@
 - 💻 Analista de Redes (Pleno)
 - 🏢 Co-fundador da **Retwire** (Automação, sistemas e consultoria)
 - 📡 Consultor MikroTik
-- 🎓 Estudante de Engenharia de Software
+- 🎓 Estudante de Engenharia de Software 8/8
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="45"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/mikrotik-9fxkorisqhnq5ppw9ory2o.png" width="45"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/mikrotik-9fxkorisqhnq5ppw9ory2o.png/mikrotik-w4y9rth430h5bcfzp9in8i.png?_a=DATAiZAAZAA0" width="45"/>
 </p>
 
 ---
