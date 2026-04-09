@@ -1,7 +1,7 @@
 # Kantxlx 💻
 ## hello guys who make the program, Welcome to my Github 👋 ! ! !
 
-<img loading="lazy" src="https://chatgpt.com/s/m_69d7bea260588191b7d015f71c679add" width="1024" height="200">
+<img loading="lazy" src="https://pbs.twimg.com/media/HFeOS3VWIAAPbce?format=jpg&name=small" width="1024" height="200">
 
 ## Linguagens e ferramentas que uso no dia a dia:
 
